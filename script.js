@@ -1,5 +1,3 @@
-alert("deu certo rr")
+alert(" Deu certo; Miguel Afonso Xavier 28 e Anthony Marba 2")
 
-let Nome_Usuario = prompt("quantas horas vc trabalha?")
-
-alert(Nome_Usuario)
+//--let Nome_Usuario = prompt("quantas horas vc trabalha?")

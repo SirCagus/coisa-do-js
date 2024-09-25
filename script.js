@@ -9,7 +9,7 @@ let Soma = function Soma(num1, num2) {
 console.log(Soma(2, 3))
 
 let areaQuadrado = function Quadrado(num1) {
-    return num1^2
+    return num1*num1
 }
 
 console.log(Quadrado(2))

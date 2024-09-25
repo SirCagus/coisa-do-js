@@ -4,13 +4,13 @@
 
 
 let CalculodeMediaDoUsuario = function Mediazinha(num1, num2, num3) {
-    num1 = parseInt(prompt("Me dê o primeiro número"))
-    num2 = parseInt(prompt("Me dê o segundo número"))
-    num3 = parseInt(prompt("Me dê o terceiro número"))
+    let numero1 =  num1.parseInt(prompt("Me dê o primeiro número"))
+    numero2 = num2.parseInt(prompt("Me dê o segundo número"))
+    numero3 = num3.parseInt(prompt("Me dê o terceiro número"))
     return (num1+num2+num3)/3
 }
 
-document.write(CalculodeMediaDoUsuario)
+document.write(CalculodeMediaDoUsuario())
 
 let Soma = function somaBasica(num1, num2) {
     return num1+num2

@@ -26,3 +26,5 @@ let Media = function calculoMedia(num1, num2, num3) {
 }
 
 console.log(Media(Soma, Quadrado, Triangulo))
+
+//oi

@@ -24,3 +24,5 @@ console.log(Triangulo(2,3))
 let Media = function calculoMedia(num1, num2, num3) {
     return (num1+num2+num3)/3
 }
+
+console.log(Media)

@@ -25,6 +25,7 @@ let Media = function calculoMedia(num1, num2, num3) {
     return (num1+num2+num3)/3
 }
 
-console.log(Media(Soma, Quadrado, Triangulo))
+console.log(Media(2, 3, 10))
 
-//oi
+let QualquerCoisaSeila = parseInt(prompt("Quantos anos você tem"))
+document.write(QualquerCoisaSeila)

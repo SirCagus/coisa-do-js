@@ -1,4 +1,4 @@
-//alert(" Deu certo; Miguel Afonso Xavier 28 e Anthony Marba 2")
+//alert(" Deu certo; Miguel Afonso Xavier 28, Anthony Marba 2 e Pedro de Castro 32")
 
 //--let Nome_Usuario = prompt("quantas horas vc trabalha?")
 

@@ -21,8 +21,6 @@ function Triangulo(num1, num2, num3) {
 
 console.log(Triangulo(2,3))
 
-function aleatorio(num1) {
-    num1 = Math.random(1, 10)
+let Media = function calculoMedia(num1, num2, num3) {
+    return (num1+num2+num3)/3
 }
-
-console.log(aleatorio)

@@ -2,6 +2,16 @@
 
 //--let Nome_Usuario = prompt("quantas horas vc trabalha?")
 
+
+let CalculodeMediaDoUsuario = function(num1, num2, num3) {
+    num1 = parseInt(prompt("Me dê o primeiro número"))
+    num2 = parseInt(prompt("Me dê o segundo número"))
+    num3 = parseInt(prompt("Me dê o terceiro número"))
+    return (num1+num2+num3)/3
+}
+
+document.write(CalculodeMediaDoUsuario)
+
 let Soma = function somaBasica(num1, num2) {
     return num1+num2
 }
@@ -26,6 +36,3 @@ let Media = function calculoMedia(num1, num2, num3) {
 }
 
 console.log(Media(2, 3, 10))
-
-let QualquerCoisaSeila = parseInt(prompt("Quantos anos você tem"))
-document.write(QualquerCoisaSeila)

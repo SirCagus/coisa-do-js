@@ -10,7 +10,7 @@ let CalculodeMediaDoUsuario = function Mediazinha(num1, num2, num3) {
     return (num1+num2+num3)/3
 }
 
-document.write(CalculodeMediaDoUsuario())
+document.write(CalculodeMediaDoUsuario(numero1, numero2, numero3))
 
 let Soma = function somaBasica(num1, num2) {
     return num1+num2

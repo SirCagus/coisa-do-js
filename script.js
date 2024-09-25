@@ -21,8 +21,8 @@ function Triangulo(num1, num2, num3) {
 
 console.log(Triangulo(2,3))
 
-function aleatorio() {
-   return Math.random(1, 10)
+function aleatorio(num1) {
+    num1 = Math.random(1, 10)
 }
 
 console.log(aleatorio)

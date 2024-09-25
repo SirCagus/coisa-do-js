@@ -2,7 +2,7 @@
 
 //--let Nome_Usuario = prompt("quantas horas vc trabalha?")
 
-let Soma = function SomaBasica(num1, num2) {
+let Soma = function Somabasica(num1, num2) {
     return num1+num2
 }
 

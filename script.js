@@ -9,8 +9,8 @@ let CalculodeMediaDoUsuario = function Mediazinha(num1, num2, num3) {
     numero3 = num3.parseInt(prompt("Me dê o terceiro número"))
     return (num1+num2+num3)/3
 }
+console.log(CalculodeMediaDoUsuario)
 
-document.write(CalculodeMediaDoUsuario(numero1, numero2, numero3))
 
 let Soma = function somaBasica(num1, num2) {
     return num1+num2

@@ -20,3 +20,10 @@ function Triangulo(num1, num2, num3) {
 }
 
 console.log(Triangulo(2,3))
+
+function aleatorio() {
+let valor = Math.random(1, 2)
+if valor = 1 
+console.log("é 1") else
+console.log("n é 1")
+}

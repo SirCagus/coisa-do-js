@@ -2,13 +2,13 @@
 
 //--let Nome_Usuario = prompt("quantas horas vc trabalha?")
 
-let Soma = function Soma(num1, num2) {
+let Soma = function SomaBasica(num1, num2) {
     return num1+num2
 }
 
 console.log(Soma(2, 3))
 
-let areaQuadrado = function Quadrado(num1) {
+let Quadrado = function areaQuadrado(num1) {
     return num1*num1
 }
 

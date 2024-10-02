@@ -52,3 +52,11 @@
 //     console.log(estados[index]);
     
 // }
+
+let idade = 6;
+if(idade>17) {
+    console.log('maior de idade');
+}
+else {
+    console.log('menor de idade');
+}
